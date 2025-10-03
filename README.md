@@ -22,7 +22,7 @@ This project is to create a working minesweeper game using JavaScript in an app.
 
 **Step 2:** Go to the repository in your desktop. Open `index.html` to be brought to the main webpage.
 
-## Images Credits
+## Image Credits
 
 - `minesweeper` - Google Minesweeper
 - `star` - https://freeicons.io/icon/weather-icons/icon-stars-icon-6744
