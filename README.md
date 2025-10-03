@@ -8,11 +8,11 @@ This project is a work in progress.
 
 This project is to create a working minesweeper game using JavaScript in an app.
 
-`index.html` - The main page of the webpage. Has the minesweeper game
-`how-to-play.html` - Has an explanation of how to play the game
-`style.css` - CSS file to style the webpage
-`images` - Images used
-`layout.pdf` - Layout of the webpage
+- `index.html` - The main page of the webpage. Has the minesweeper game
+- `how-to-play.html` - Has an explanation of how to play the game
+- `style.css` - CSS file to style the webpage
+- `images` - Images used
+- `layout.pdf` - Layout of the webpage
 
 **Tech Used:** HTML, CSS, JavaScript (to be used)
 
@@ -24,8 +24,8 @@ This project is to create a working minesweeper game using JavaScript in an app.
 
 ## Images Credits
 
-`minesweeper` - Google Minesweeper
-`star` - https://freeicons.io/icon/weather-icons/icon-stars-icon-6744
+- `minesweeper` - Google Minesweeper
+- `star` - https://freeicons.io/icon/weather-icons/icon-stars-icon-6744
 
 ## Contact Information
 
