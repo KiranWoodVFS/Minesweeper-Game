@@ -27,6 +27,10 @@ This project is to create a working minesweeper game using JavaScript in an app.
 - `minesweeper` - Google Minesweeper
 - `star` - https://freeicons.io/icon/weather-icons/icon-stars-icon-6744
 
+## Project Link
+
+- https://github.com/KiranWoodVFS/Minesweeper-Game
+
 ## Contact Information
 
 **Kiran Wood**
